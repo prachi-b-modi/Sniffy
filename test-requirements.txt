@@ -1,0 +1,7 @@
+# Test dependencies for the simple agent project
+# Using Python standard library unittest - no additional dependencies required
+
+# Optional: For enhanced testing capabilities
+# pytest>=6.0.0
+# pytest-mock>=3.0.0
+# coverage>=5.0.0
